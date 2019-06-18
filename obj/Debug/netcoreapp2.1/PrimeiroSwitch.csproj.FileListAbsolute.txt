@@ -1,0 +1,11 @@
+C:\Users\gustavo.calbuquerque\CSharp\PrimeiroSwitch\bin\Debug\netcoreapp2.1\PrimeiroSwitch.deps.json
+C:\Users\gustavo.calbuquerque\CSharp\PrimeiroSwitch\bin\Debug\netcoreapp2.1\PrimeiroSwitch.runtimeconfig.json
+C:\Users\gustavo.calbuquerque\CSharp\PrimeiroSwitch\bin\Debug\netcoreapp2.1\PrimeiroSwitch.runtimeconfig.dev.json
+C:\Users\gustavo.calbuquerque\CSharp\PrimeiroSwitch\bin\Debug\netcoreapp2.1\PrimeiroSwitch.dll
+C:\Users\gustavo.calbuquerque\CSharp\PrimeiroSwitch\bin\Debug\netcoreapp2.1\PrimeiroSwitch.pdb
+C:\Users\gustavo.calbuquerque\CSharp\PrimeiroSwitch\obj\Debug\netcoreapp2.1\PrimeiroSwitch.csprojAssemblyReference.cache
+C:\Users\gustavo.calbuquerque\CSharp\PrimeiroSwitch\obj\Debug\netcoreapp2.1\PrimeiroSwitch.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.calbuquerque\CSharp\PrimeiroSwitch\obj\Debug\netcoreapp2.1\PrimeiroSwitch.AssemblyInfoInputs.cache
+C:\Users\gustavo.calbuquerque\CSharp\PrimeiroSwitch\obj\Debug\netcoreapp2.1\PrimeiroSwitch.AssemblyInfo.cs
+C:\Users\gustavo.calbuquerque\CSharp\PrimeiroSwitch\obj\Debug\netcoreapp2.1\PrimeiroSwitch.dll
+C:\Users\gustavo.calbuquerque\CSharp\PrimeiroSwitch\obj\Debug\netcoreapp2.1\PrimeiroSwitch.pdb
