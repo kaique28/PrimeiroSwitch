@@ -10,7 +10,7 @@ namespace PrimeiroSwitch
 
         //  Para limpar a tela do terminal, usaremos o comando Console.Clear, o comando clear limpa a tela.
         Console.Clear();
-        Console.WriteLine("Para saber o salário de um cago, digite o cargo: ");
+        Console.WriteLine("Para saber o salário de um cargo, digite o cargo: ");
         //  O comando ToLower converte os caracteres para minúsculo.
         cargo = Console.ReadLine().ToLower();
 
