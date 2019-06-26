@@ -36,10 +36,13 @@ namespace PrimeiroSwitch
             Console.WriteLine ("O salário deste cargo é R$2.000,00.");
             break;
 
-            default:
-            Console.WriteLine ("Não há salário");
+            case "estagiario"
+            Console.WriteLine ("O salário deste cargo é R$850,00");
             break;
-
+                
+            default:    
+            Console.Whiteline ("Não há salário");
+            break;    
             }
 
         }
